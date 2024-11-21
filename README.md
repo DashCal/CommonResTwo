@@ -1,2 +1,1 @@
-# CommonResTwo
-Nothing Here
+# Nothing Here
